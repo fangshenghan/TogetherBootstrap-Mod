@@ -11,7 +11,7 @@
 - KOOK Bot Developer / KOOK 机器人 - SensenPlayer
 
 # 百科全书 / Notion
-- [https://www.notion.so/Together-Knowledge-Hub-e3fe15fe194a40118702ac244b204568?showMoveTo=true](Notion Page)
+- [Notion Knowledge Hub](https://www.notion.so/Together-Knowledge-Hub-e3fe15fe194a40118702ac244b204568?showMoveTo=true)
 
 # 使用 / Install
 **English:**

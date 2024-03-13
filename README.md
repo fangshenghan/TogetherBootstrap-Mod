@@ -28,3 +28,4 @@
 
 # 注意 / Notice
 - This mod will only operate on Windows! (Mac support in the future)
+- 此模组只能在Windows上运行! (之后可能会支持Mac)

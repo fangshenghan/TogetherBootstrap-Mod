@@ -6,8 +6,9 @@
 # 贡献 / Credits
 - Developer / 开发者 - Sharky
 - Translator / 翻译 - sjk
-- KOOK Bot Developer / KOOK 机器人 - SensenPlayer
+- Notion Page / 百科全书 - sjk
 - Discord Bot Developer / Discord 机器人 - sjk
+- KOOK Bot Developer / KOOK 机器人 - SensenPlayer
 
 # 使用 / Install
 **English:**

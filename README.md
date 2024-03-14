@@ -5,7 +5,7 @@
 
 # 贡献 / Credits
 - Developer / 开发者 - Sharky
-- Translator / 翻译 - sjk
+- Translator / 翻译 - sjk (JP, KR, ENG)
 - [Notion Knowledge Hub](https://www.notion.so/Together-Knowledge-Hub-e3fe15fe194a40118702ac244b204568?showMoveTo=true) / [百科全书](https://www.notion.so/Together-Knowledge-Hub-e3fe15fe194a40118702ac244b204568?showMoveTo=true) - sjk
 - Discord Bot Developer / Discord 机器人 - sjk
 - KOOK Bot Developer / KOOK 机器人 - SensenPlayer

@@ -29,3 +29,4 @@
 
 # 注意 / Notice
 - It is recommeneded to use this mod on Windows! However, it also supports MacOS & Linux.
+- 推荐在Windows上使用此模组! 但是也支持Mac和Linux系统。

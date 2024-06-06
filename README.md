@@ -28,5 +28,4 @@
 - 恭喜您！您现在可以玩Together了。您可以创建房间并邀请您的朋友一起玩，或加入其他房间玩。
 
 # 注意 / Notice
-- This mod will only operate on Windows! (Mac support in the future)
-- 此模组只能在Windows上运行! (之后可能会支持Mac)
+- It is recommeneded to use this mod on Windows! However, it also supports MacOS & Linux.
